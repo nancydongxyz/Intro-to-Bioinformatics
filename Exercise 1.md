@@ -1,4 +1,4 @@
-##Exercise 1
+# Exercise 1
 
 1. Obtain the most up-to-date reference proteomes of 
     * Human

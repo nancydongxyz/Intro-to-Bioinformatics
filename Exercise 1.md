@@ -1,5 +1,7 @@
 # Exercise 1
 
+Record your workflow and commands in a Jupyter notebook. Upload the Jupyter notebook and analyses files to a new GitHub repository.
+
 1. Obtain the most up-to-date reference proteomes of 
     * Human
     * Mouse
